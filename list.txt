@@ -1,0 +1,2 @@
+! Custom IDN Block List By SK
+||image.bannermovie.online^
